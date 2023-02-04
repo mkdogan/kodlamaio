@@ -1,0 +1,12 @@
+mycompany\kodlama\io\core\logging\MailLogger.class
+mycompany\kodlama\io\dataAccess\HibernateCourseDao.class
+mycompany\kodlama\io\entities\Category.class
+mycompany\kodlama\io\core\logging\DatabaseLogger.class
+mycompany\kodlama\io\entities\Lecturer.class
+mycompany\kodlama\io\business\CourseManager.class
+mycompany\kodlama\io\core\logging\Logger.class
+mycompany\kodlama\io\entities\Course.class
+mycompany\kodlama\io\dataAccess\CourseDao.class
+mycompany\kodlama\io\entities\Kodlamaio.class
+mycompany\kodlama\io\core\logging\FileLogger.class
+mycompany\kodlama\io\dataAccess\JdbcCourseDao.class
